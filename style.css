@@ -2,8 +2,15 @@ body {
     background: #CCCCCC
 }
 
-p {
-    text-align: center;
+#baner { 
+     width: 100%
+}
+
+.principal{
+
+}
+ 
+text-align: center;
 }
 
 em strong {
